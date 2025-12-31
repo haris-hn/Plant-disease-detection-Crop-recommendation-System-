@@ -1,2 +1,2 @@
-# Plant-disease-detection-Crop-recommendation-System-
+# AgriSmart-Plant-disease-detection-Crop-recommendation-System-
 This project presents web-based application that aims to modernize decision-making using AI. The application has two functionalities: crop recommendation based on environmental data and plant disease detection using image processing. It is built to assist farmers by providing intelligent suggestions and early disease alerts to optimize crop yield 
