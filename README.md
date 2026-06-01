@@ -229,28 +229,6 @@ GOOGLE_CLIENT_SECRET = "your-client-secret"
 
 ---
 
-## 📸 Screenshots
-
-| Page | Description |
-|---|---|
-| Login | Glassmorphism card with Google sign-in button |
-| Home Tab | Hero image with feature overview cards |
-| Disease Recognition | Image uploader + AI diagnosis result |
-| Crop Recommendation | Parameter form + crop suggestion |
-| Profile | Google account details + logout |
-
----
-
-## 📞 Contact
-
-| | |
-|---|---|
-| **Email** | support@agrismart.com |
-| **Phone** | +92 (321) 321-4567 |
-| **Institution** | Agriculture University Faisalabad |
-
----
-
 ## 📄 License
 
 This project was developed as a **Final Year Project** at Agriculture University Faisalabad. All rights reserved.
